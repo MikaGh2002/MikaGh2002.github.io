@@ -40,7 +40,12 @@ self.addEventListener('install', function(event) {
           '/images/example-blog04.jpg',
           '/images/example-blog05.jpg',
           '/images/example-blog06.jpg',
-          '/images/example-blog07.jpg'
+          '/images/example-blog07.jpg',
+          '/images/logo48.png',
+          '/images/logo96.png',
+          '/images/logo144.png',
+          '/images/logo384.png',
+          '/images/logo512.png'
         ])
       })
   );
