@@ -31,7 +31,16 @@ self.addEventListener('install', function(event) {
           '/images/portfolio-example-06.jpg',
           '/app.js',
           '/manifest.json',
-          '/sw.js'
+          '/sw.js',
+          '/images/about-header.jpg',
+          '/images/contact-image.jpg',
+          '/images/example-blog01.jpg',
+          '/images/example-blog02.jpg',
+          '/images/example-blog03.jpg',
+          '/images/example-blog04.jpg',
+          '/images/example-blog05.jpg',
+          '/images/example-blog06.jpg',
+          '/images/example-blog07.jpg'
         ])
       })
   );
