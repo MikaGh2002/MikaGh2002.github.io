@@ -5,9 +5,9 @@ self.addEventListener('install', function(event) {
         cache.addAll([
           '/',
           '/index.html',
-          'about.html',
-          'blog.html',
-          'contact.html',
+          '/about.html',
+          '/blog.html',
+          '/contact.html',
           '/images/example-work01.jpg',
           '/images/example-work07.jpg',
           '/images/example-work02.jpg',
