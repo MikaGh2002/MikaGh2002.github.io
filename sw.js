@@ -7,7 +7,17 @@ self.addEventListener('install', function(event) {
           '/index.html',
           '/about.html',
           '/blog.html',
-          '/contact.html'
+          '/contact.html',
+          '/images/logo.png',
+//        '/images/example-work01.jpg',
+//        '/images/example-work07.jpg',
+//        '/images/example-work02.jpg',
+//        '/images/example-work03.jpg',
+//        '/images/example-work04.jpg',
+//        '/images/example-work05.jpg',
+//        '/images/example-work06.jpg',
+//        '/images/example-work08.jpg',
+//        '/images/example-work09.jpg'
         ])
       })
   );
