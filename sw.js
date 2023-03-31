@@ -31,7 +31,8 @@ self.addEventListener('install', function(event) {
           '/images/portfolio-example-06.jpg',
           '/app.js',
           '/manifest.json',
-          '/sw.js'
+          '/sw.js',
+          '/Tutorial/styles.css'
         ])
       })
   );
