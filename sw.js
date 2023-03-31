@@ -32,7 +32,6 @@ self.addEventListener('install', function(event) {
           '/app.js',
           '/manifest.json',
           '/sw.js',
-          '/Tutorial/*'
         ])
       })
   );
